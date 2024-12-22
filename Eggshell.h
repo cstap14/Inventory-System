@@ -29,4 +29,5 @@ public:
 		std::cout << "This type of paint is great for places that experience low or medium traffic.\n\n";
 	}
 
+
 };
